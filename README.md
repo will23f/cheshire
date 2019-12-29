@@ -1,2 +1,6 @@
 # cheshire
-Keyboard PCB, and acrylic case inspired by the TGR Alice layout designed by me
+Keyboard PCB, and acrylic case inspired by the TGR Alice layout designed by me. Since the creation, several others have done the same type of design, so I am now making the files public.
+
+I provide these PCBs as a reference for design. Using them within your projects will require a will to do research of one's own and to learn the workings of them, potentially fixing issues if they exist.
+I provide these PCBs without liability and without any guarantees regarding functionality, as expressed in the MIT license under which all of these PCBs are licensed.
+
