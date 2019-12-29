@@ -1,0 +1,4 @@
+- Define pins to rows and col
+- Define diode directions
+- Define what bootloader is being used?
+- Define what architechure is being used? (AVR8 in .MK file)
