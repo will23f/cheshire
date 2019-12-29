@@ -1,6 +1,7 @@
 # illuminatrov2
+- need to update name to cheshire throughout - original name of project was illuminatrov2
 
-![illuminatrov2](imgur.com image replace me!)
+![illuminatrov2](https://github.com/digitaldruglord/cheshire/blob/master/cheshire%20images/cheshire1.jpg)
 
 A short description of the keyboard/project
 
